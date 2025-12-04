@@ -1,0 +1,38 @@
+---
+title: Plato's The Republic
+draft: true
+author: "[[Plato]]"
+publisher: Translated and edited by Robin Waterfield (Oxford Paperbacks)
+tags:
+---
+# Key Context/Big Picture (The "Why")
+The Greek title, _politeia_, really means **"political system"** (or constitution), but the book isn't really a political manifesto. It’s a huge, sprawling work that uses the creation of an imaginary community (_polis_) as a massive **metaphor** to figure out the inner state of the **individual soul**
+
+The main point of the book is **not** political theory, but to show that **morality is beneficial to its possessor**, that it brings happiness regardless of external consequences. The entire exploration of the community (_polis_) is primarily a **metaphor** (the "soft aspect") to describe the **inner state of the individual** (the psyche). This means the wild political ideas (like philosopher kings) are mostly psychological ideals
+
+---
+The following notes are taken using the Oxford Paperbacks version of The Republic, translated and edited by Robin Waterfield
+# Chapter-wise notes
+[[Chapter 1 - Convention under Attack]]
+[[Chapter 2 - The Challenge to Socrates]] 
+[[Chapter 3 - Fundamentals of Inner Politics]] 
+[[Chapter 4 - Primary Education for the Guardians]]
+[[Chapter 5 - The Guardians’ Life and Duties]]
+[[Chapter 6 - Inner and Outer Morality]]
+[[Chapter 7 - Women, Children, and Warfare ]]
+[[Chapter 8 - Philosopher Kings]]
+[[Chapter 9 - The Supremacy of Good]]
+[[Chapter 10 - Educating Philosopher Kings]]
+[[Chapter 11 - Warped Minds, Warped Societies]]
+[[Chapter 12 - Happiness and Unhappiness ]]
+[[Chapter 13 - Poetry and Unreality]] 
+[[Chapter 14 - Rewards Now and Hereafter ]]
+
+# Primary characters
+[[Plato]]
+[[Socrates]]
+[[Thrasymachus]]
+[[Glaucon]]
+[[Adeimantus]]
+[[Cephalus]]
+[[Polemarchus]]

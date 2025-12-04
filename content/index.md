@@ -1,4 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Drafts & Scribbles
 ---
-HI!!!! NEW SITE
+Welcome to my philosophy vault. This is not polished writing. It’s rough notes, half-formed ideas, and questions while I read and think.

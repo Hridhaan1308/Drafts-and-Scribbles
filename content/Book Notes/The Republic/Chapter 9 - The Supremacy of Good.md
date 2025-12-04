@@ -1,0 +1,6 @@
+The "longer route" of study is introduced. The ultimate topic is the character of **Goodness**, which is essential because it is the source of all value, "where anything which is moral (or whatever) gets its value and advantages from".
+1. **Simile of the Sun:** Goodness is analogous to the sun. The sun provides light for the eyes to see and is the source of "generation, growth, and nourishment". Similarly, Goodness confers "known-ness," **reality, and being** upon the Forms, yet **"surpasses being in majesty and might"**.
+2. **Image of the Line:** Distinguishes the **Intelligible Realm (Knowledge)** from the **Visible Realm (Belief)**. The highest part of the intelligible realm is reached via dialectic, which finds a starting point in Goodness itself.
+3. **Allegory of the Cave:** Illustrates education as the difficult and painful **"reorientation of a mind"**, turning the soul from the shadows of the sensible world toward "true daylight" (reality/Goodness). The philosopher must descend back into the cave to rule as an obligation.
+
+I think the Cave Allegory is the perfect metaphor for the difficulty of self-improvement. We are compelled to ascend not just for abstract knowledge, but because Knowledge of Goodness is required for the "intelligent conduct of private or public business".

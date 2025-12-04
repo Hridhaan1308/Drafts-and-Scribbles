@@ -1,0 +1,5 @@
+[[Plato]]’s brothers, [[Glaucon]] and [[Adeimantus]], revitalize the debate, asserting that [[Socrates]] "charmed" [[Thrasymachus]] into docility but failed to convince them.
+
+[[Glaucon]] presents the argument that morality is merely a necessary contract—a "compromise" people accept because the disadvantages of being wronged outweigh the benefits of doing wrong. He introduces the scenario (the Ring of Gyges implicitly) requiring [[Socrates]] to prove that morality, **"in and of itself,"** possesses virtues that make it preferable to immorality, even if the moral person is universally scorned and the immoral person is lauded. [[Adeimantus]] adds that people generally only praise morality for the rewards, status, and reputation it confers.
+
+I think this chapter defines the book's purpose. The request to divorce morality from its external reputation demands an investigation into an individual's intrinsic, internal psychological condition. This validates the eventual psychological turn of the argument later on.
