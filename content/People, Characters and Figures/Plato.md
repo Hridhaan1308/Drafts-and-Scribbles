@@ -1,0 +1,1 @@
+Plato (c. 428–348 BCE) was an Athenian philosopher, student of [[Socrates]], and teacher of [[Aristotle]]. He founded the Academy, the first institution of higher learning in the Western world. In the Republic, Plato writes through Socratic dialogues to present his ideas on justice, the ideal state, the Theory of Forms, and philosopher-kings.

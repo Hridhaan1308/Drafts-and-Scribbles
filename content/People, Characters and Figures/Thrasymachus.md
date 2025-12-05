@@ -1,0 +1,1 @@
+Thrasymachus was a sophist from Chalcedon, a professional teacher of rhetoric. In Book I of the Republic, he aggressively claims that "justice is the advantage of the stronger," arguing rulers make laws to benefit themselves. [[Socrates]] refutes him, and he is silenced.

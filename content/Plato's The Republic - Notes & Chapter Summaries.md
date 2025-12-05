@@ -1,6 +1,8 @@
 ---
 title: Plato's The Republic
-draft: true
+aliases:
+  - The Republic
+draft: false
 author: "[[Plato]]"
 publisher: Translated and edited by Robin Waterfield (Oxford Paperbacks)
 tags:

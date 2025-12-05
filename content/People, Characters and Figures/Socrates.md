@@ -1,0 +1,1 @@
+Socrates (c. 470–399 BCE) was an Athenian philosopher famous for his elenchus method of questioning to expose contradictions. He wrote nothing himself and was executed for "corrupting the youth." In the Republic, Socrates serves as the main speaker, driving debates on justice and challenging all conventional definitions.

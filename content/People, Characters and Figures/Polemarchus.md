@@ -1,0 +1,1 @@
+Polemarchus, son of [[Cephalus]] and heir to the shield-making business, playfully detains [[Socrates]] at the start and briefly debates justice in Book I. He claims justice means helping friends and harming enemies, citing the poet Simonides, but Socrates refutes this position.​

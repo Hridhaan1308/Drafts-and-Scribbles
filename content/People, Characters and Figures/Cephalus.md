@@ -1,0 +1,1 @@
+Cephalus was an elderly wealthy shield-maker originally from Syracuse who settled in Athens. Hosting the Book I discussion at his house, he defines justice simply as telling the truth and repaying debts. Socrates challenges this definition, and Cephalus exits the debate early.

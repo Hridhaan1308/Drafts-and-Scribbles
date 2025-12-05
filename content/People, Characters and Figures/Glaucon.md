@@ -1,0 +1,1 @@
+Glaucon, [[Plato]]'s brother and an Athenian aristocrat, serves as [[Socrates]]' primary interlocutor from Book II through Book X of traditional translations of the Republic. A military man and capable debater, he challenges [[Socrates]] with the Ring of Gyges story to prove justice is good in itself, not just for reputation, and engages deeply with the Theory of Forms.​

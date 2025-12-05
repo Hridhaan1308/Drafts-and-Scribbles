@@ -1,0 +1,1 @@
+Adeimantus, Plato's older brother, acts as a secondary interlocutor mainly in Books II-IV and VI. He reinforces Glaucon's challenge about society's superficial praise of justice and raises practical objections to the guardian class's communal living arrangements.​
