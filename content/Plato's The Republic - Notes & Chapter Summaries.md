@@ -6,6 +6,7 @@ draft: false
 author: "[[Plato]]"
 publisher: Translated and edited by Robin Waterfield (Oxford Paperbacks)
 tags:
+  - Plato
 ---
 # Key Context/Big Picture (The "Why")
 The Greek title, _politeia_, really means **"political system"** (or constitution), but the book isn't really a political manifesto. It’s a huge, sprawling work that uses the creation of an imaginary community (_polis_) as a massive **metaphor** to figure out the inner state of the **individual soul**
