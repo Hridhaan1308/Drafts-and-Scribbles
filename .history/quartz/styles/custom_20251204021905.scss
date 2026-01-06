@@ -1,8 +1,0 @@
-@use "./base.scss";
-
-/* Hide date text under note titles */
-.content-meta time,
-.content-meta .meta-item time,
-.article-meta time {
-  display: none !important;
-}
